@@ -53,9 +53,8 @@ Amigo-Secreto-App/
 
 ## Capturas de pantalla
 
-![image](https://github.com/user-attachments/assets/1d07e853-34cc-4279-97dc-267102189dae)
-![image](https://github.com/user-attachments/assets/3f065b04-defa-4dd1-9ddf-653c0132cbf6)
-
+![Image](https://github.com/user-attachments/assets/2ae7a3bb-ed19-4dde-b2f8-41f2f296d488)
+![Image](https://github.com/user-attachments/assets/9695861f-4c98-48e1-95a2-beb935ddaa09)
 ## Tecnologías utilizadas
 
 - **HTML**: Estructura de la página.
